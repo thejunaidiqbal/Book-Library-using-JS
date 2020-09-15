@@ -2,7 +2,7 @@
 <hr>
 <p>A Javascript book library project by thajunaidiqbal</p>
 <p> In this project, I used JS and CSS to create and delete book run time.</p>
-<br>
+
 ## Author
 You can get in touch with me on my LinkedIn Profile:
 
